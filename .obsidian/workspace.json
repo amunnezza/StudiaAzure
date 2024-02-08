@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "90714ee78a28049f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dd8b40825df8567",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf2588808cbf903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2fbce2e1a78faf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "177b676f850e0056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f518037077a8377",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2536ca1326e2d3fc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ce26770206e5379",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8143502d67ef0b91",
+    "type": "split",
+    "children": [
+      {
+        "id": "29787907bfa6f20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0de21cef0bcc7c8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa4311bb48be64fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5eeb7cdd2d1c2eae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "140e1bdd4ff7705d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "9cf2588808cbf903",
+  "lastOpenFiles": [
+    "001Descrivere l'infrastruttura fisica di Azure - Training  Microsoft Learn.md",
+    "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+    "images/005management-groups-subscriptions-dfd5a108.png",
+    "images/005management-groups-subscriptions-dfd5a108.png.crdownload",
+    "images/004subscriptions-d415577b.png",
+    "images/004subscriptions-d415577b.png.crdownload",
+    "images/003resource-group-eb2d7177.png",
+    "images/003resource-group-eb2d7177.png.crdownload",
+    "images/region-pairs.png",
+    "images/region-pairs.png.crdownload",
+    "images/availability-zones.png",
+    "images/availability-zones.png.crdownload"
+  ]
+}

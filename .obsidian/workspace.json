@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "007Describe Azure containers - Training  Microsoft Learn.md",
+                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007Describe Azure containers - Training  Microsoft Learn.md",
+                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "007Describe Azure containers - Training  Microsoft Learn.md",
+                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007Describe Azure containers - Training  Microsoft Learn.md"
+                "file": "008Describe Azure functions - Training  Microsoft Learn.md"
               }
             }
           }
@@ -146,12 +146,16 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9f518037077a8377",
+  "active": "9cf2588808cbf903",
   "lastOpenFiles": [
+    "video/video002.mp4",
+    "video/eb0774fa-37ec-4cba-a216-89910bcf_6750.mp4",
+    "007Describe Azure containers - Training  Microsoft Learn.md",
+    "008Describe Azure functions - Training  Microsoft Learn.md",
+    "video/video001.mp4",
     "video",
     "Nuova cartella",
     "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
-    "007Describe Azure containers - Training  Microsoft Learn.md",
     "Describe Azure containers - Training  Microsoft Learn.md",
     "006Describe Azure virtual desktop - Training  Microsoft Learn.md",
     "Describe Azure virtual desktop - Training  Microsoft Learn.md",

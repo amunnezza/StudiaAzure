@@ -22,7 +22,7 @@ Containers are a virtualization environment. Much like running multiple virtual 
 ## Compare virtual machines to containers
 
 The following video highlights several of the important differences between virtual machines and containers:
-
+![[video001.mp4]]
 Transcript.
 >>In this video, we'll discuss the difference between virtual machines and containers.
 So let's begin. Deploying server applications has always been complicated.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
+                "file": "004Describe Azure virtual machines - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 507.5
   },
   "right": {
     "id": "8143502d67ef0b91",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
+                "file": "004Describe Azure virtual machines - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "008Describe Azure functions - Training  Microsoft Learn.md",
+                "file": "004Describe Azure virtual machines - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "008Describe Azure functions - Training  Microsoft Learn.md"
+                "file": "004Describe Azure virtual machines - Training  Microsoft Learn.md"
               }
             }
           }
@@ -148,16 +148,27 @@
   },
   "active": "9cf2588808cbf903",
   "lastOpenFiles": [
+    "015Summary - Training  Microsoft Learn.md",
+    "Summary - Training  Microsoft Learn.md",
+    "006Describe Azure virtual desktop - Training  Microsoft Learn.md",
+    "014Describe Azure DNS - Training  Microsoft Learn.md",
+    "013Describe Azure ExpressRoute - Training  Microsoft Learn.md",
+    "012Describe Azure virtual private networks - Training  Microsoft Learn.md",
+    "011Exercise - Configure network access - Training  Microsoft Learn.md",
+    "Describe Azure virtual private networks - Training  Microsoft Learn.md",
+    "009Describe application hosting options - Training  Microsoft Learn.md",
+    "Exercise - Configure network access - Training  Microsoft Learn.md",
+    "010Describe Azure virtual networking - Training  Microsoft Learn.md",
+    "008Describe Azure functions - Training  Microsoft Learn.md",
+    "Describe application hosting options - Training  Microsoft Learn.md",
     "video/video002.mp4",
     "video/eb0774fa-37ec-4cba-a216-89910bcf_6750.mp4",
     "007Describe Azure containers - Training  Microsoft Learn.md",
-    "008Describe Azure functions - Training  Microsoft Learn.md",
     "video/video001.mp4",
     "video",
     "Nuova cartella",
     "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
     "Describe Azure containers - Training  Microsoft Learn.md",
-    "006Describe Azure virtual desktop - Training  Microsoft Learn.md",
     "Describe Azure virtual desktop - Training  Microsoft Learn.md",
     "images/005management-groups-subscriptions-dfd5a108.png",
     "003Describe Azure compute and networking services - Training  Microsoft Learn.md",

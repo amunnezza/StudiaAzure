@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "file": "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "file": "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+                "file": "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md"
+                "file": "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md"
               }
             }
           }
@@ -148,9 +148,15 @@
   },
   "active": "9cf2588808cbf903",
   "lastOpenFiles": [
-    "001Descrivere l'infrastruttura fisica di Azure - Training  Microsoft Learn.md",
-    "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
     "images/005management-groups-subscriptions-dfd5a108.png",
+    "005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
+    "003Describe Azure compute and networking services - Training  Microsoft Learn.md",
+    "Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
+    "004Describe Azure virtual machines - Training  Microsoft Learn.md",
+    "Describe Azure virtual machines - Training  Microsoft Learn.md",
+    "002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
+    "Describe Azure compute and networking services - Training  Microsoft Learn.md",
+    "001Descrivere l'infrastruttura fisica di Azure - Training  Microsoft Learn.md",
     "images/005management-groups-subscriptions-dfd5a108.png.crdownload",
     "images/004subscriptions-d415577b.png",
     "images/004subscriptions-d415577b.png.crdownload",

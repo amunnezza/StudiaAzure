@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "026Describe Azure conditional access - Training  Microsoft Learn.md",
+                "file": "029Describe Azure role-based access control - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "026Describe Azure conditional access - Training  Microsoft Learn.md",
+                "file": "029Describe Azure role-based access control - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "026Describe Azure conditional access - Training  Microsoft Learn.md",
+                "file": "029Describe Azure role-based access control - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "026Describe Azure conditional access - Training  Microsoft Learn.md"
+                "file": "029Describe Azure role-based access control - Training  Microsoft Learn.md"
               }
             }
           }
@@ -146,21 +146,45 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9f518037077a8377",
+  "active": "9cf2588808cbf903",
   "lastOpenFiles": [
-    "025Describe Azure external identities - Training  Microsoft Learn.md",
-    "Describe Azure conditional access - Training  Microsoft Learn/conditional-access-9bd268b8.png",
-    "Describe Azure conditional access - Training  Microsoft Learn",
+    "033FINESummary - Training  Microsoft Learn.md",
     "026Describe Azure conditional access - Training  Microsoft Learn.md",
-    "024Describe Azure authentication methods - Training  Microsoft Learn.md",
-    "Describe Azure external identities - Training  Microsoft Learn/azure-active-directory-external-identities-5a892021.png",
-    "Describe Azure external identities - Training  Microsoft Learn",
+    "025Describe Azure external identities - Training  Microsoft Learn.md",
+    "032Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
+    "031Describe defense-in-depth - Training  Microsoft Learn.md",
+    "032Describe Microsoft Defender for Cloud - Training  Microsoft Learn/defender-for-cloud-d47a71d8.png",
+    "032Describe Microsoft Defender for Cloud - Training  Microsoft Learn/assess-secure-defend-46228306.png",
+    "032Describe Microsoft Defender for Cloud - Training  Microsoft Learn",
+    "031Describe Microsoft Defender for Cloud - Training  Microsoft Learn/defender-for-cloud-d47a71d8.png",
+    "031Describe Microsoft Defender for Cloud - Training  Microsoft Learn/assess-secure-defend-46228306.png",
+    "031Describe Microsoft Defender for Cloud - Training  Microsoft Learn",
+    "031Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
+    "Describe Microsoft Defender for Cloud - Training  Microsoft Learn/defender-for-cloud-d47a71d8.png",
+    "Describe Microsoft Defender for Cloud - Training  Microsoft Learn/assess-secure-defend-46228306.png",
+    "Describe Microsoft Defender for Cloud - Training  Microsoft Learn",
+    "Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
+    "030Describe zero trust model - Training  Microsoft Learn.md",
+    "Describe defense-in-depth - Training  Microsoft Learn/defense-depth-486afc12.png",
+    "Describe defense-in-depth - Training  Microsoft Learn",
+    "029Describe Azure role-based access control - Training  Microsoft Learn.md",
+    "030Describe zero trust model - Training  Microsoft Learn/zero-trust-cf9202be.png",
+    "030Describe zero trust model - Training  Microsoft Learn",
+    "Describe zero trust model - Training  Microsoft Learn/zero-trust-cf9202be.png",
+    "Describe zero trust model - Training  Microsoft Learn",
+    "Describe zero trust model - Training  Microsoft Learn.md",
+    "028Describe Azure conditional access - Training  Microsoft Learn.md",
+    "029Describe Azure role-based access control - Training  Microsoft Learn/role-based-access-scope-4b12a8f3.png",
+    "029Describe Azure role-based access control - Training  Microsoft Learn",
+    "Describe Azure role-based access control - Training  Microsoft Learn",
+    "Describe Azure role-based access control - Training  Microsoft Learn.md",
+    "027Describe Azure external identities - Training  Microsoft Learn.md",
+    "028Describe Azure conditional access - Training  Microsoft Learn",
+    "Describe Azure conditional access - Training  Microsoft Learn.md",
+    "027Describe Azure external identities - Training  Microsoft Learn",
     "Describe Azure external identities - Training  Microsoft Learn.md",
-    "Describe Azure authentication methods - Training  Microsoft Learn/passwordless-convenience-security-30321b4d.png",
+    "024Describe Azure authentication methods - Training  Microsoft Learn.md",
     "023Describe Azure directory services - Training  Microsoft Learn.md",
-    "Describe Azure authentication methods - Training  Microsoft Learn",
-    "images/013azure-active-directory-sync-topology-7359f2b8.png",
-    "images/013azure-active-directory-sync-topology-7359f2b8.png.crdownload",
     "022INIZIO Describe Azure identity, access, and security - Training  Microsoft Learn.md",
     "Describe Azure directory services - Training  Microsoft Learn.md",
     "019Describe Azure storage services - Training  Microsoft Learn.md",
@@ -169,29 +193,6 @@
     "Describe Azure identity, access, and security - Training  Microsoft Learn.md",
     "017Describe Azure storage accounts - Training  Microsoft Learn.md",
     "016Describe Azure storage services - Training  Microsoft Learn.md",
-    "018Describe Azure storage redundancy - Training  Microsoft Learn.md",
-    "021Identify Azure file movement options - Training  Microsoft Learn.md",
-    "020Exercise - Create a storage blob - Training  Microsoft Learn.md",
-    "images/010storage-account-anonymous-containers-5e5f584a.png",
-    "images/012blob-access-level-213a74e6.png",
-    "images/012blob-access-level-213a74e6.png.crdownload",
-    "images/011storage-account-menu-9472480e.png",
-    "images/011storage-account-menu-9472480e.png.crdownload",
-    "images/010storage-account-anonymous-containers-5e5f584a.png.crdownload",
-    "Exercise - Create a storage blob - Training  Microsoft Learn.md",
-    "Describe Azure storage services - Training  Microsoft Learn.md",
-    "images/009geo-zone-redundant-storage-138ab5af.png",
-    "images/009geo-zone-redundant-storage-138ab5af.png.crdownload",
-    "images/008geo-redundant-storage-3432d558.png",
-    "images/008geo-redundant-storage-3432d558.png.crdownload",
-    "images/007zone-redundant-storage-6dd46d22.png",
-    "images/007zone-redundant-storage-6dd46d22.png.crdownload",
-    "Describe Azure storage redundancy - Training  Microsoft Learn.md",
-    "015Summary - Training  Microsoft Learn.md",
-    "Describe Azure storage accounts - Training  Microsoft Learn.md",
-    "014Describe Azure DNS - Training  Microsoft Learn.md",
-    "004Describe Azure virtual machines - Training  Microsoft Learn.md",
-    "Summary - Training  Microsoft Learn.md",
-    "006Describe Azure virtual desktop - Training  Microsoft Learn.md"
+    "018Describe Azure storage redundancy - Training  Microsoft Learn.md"
   ]
 }

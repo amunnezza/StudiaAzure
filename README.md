@@ -1,2 +1,3 @@
 # StudiaAzure
-per studio azure
+Nella cartella Begin azure c'è documentazione per le cazzatine iniziali
+

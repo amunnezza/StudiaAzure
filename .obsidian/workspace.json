@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040FINE_Summary and resources - Training  Microsoft Learn.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "040FINE_Summary and resources - Training  Microsoft Learn.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "040FINE_Summary and resources - Training  Microsoft Learn.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "040FINE_Summary and resources - Training  Microsoft Learn.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,50 +148,51 @@
   },
   "active": "9f518037077a8377",
   "lastOpenFiles": [
-    "035Define strategy - Training  Microsoft Learn.md",
-    "Summary and resources - Training  Microsoft Learn/key-takeaway.png",
-    "Summary and resources - Training  Microsoft Learn/key-takeaway.png.crdownload",
-    "040FINE_Summary and resources - Training  Microsoft Learn.md",
-    "Summary and resources - Training  Microsoft Learn",
-    "Non confermato 474979.crdownload",
-    "1e2bb287-b81d-4420-b2f2-f6c03c7b4a9d.tmp",
-    "456d98e6-bd0a-4c25-bdb3-cdc42e788917.tmp",
-    "039Govern and manage - Training  Microsoft Learn.md",
-    "038Adopt - Training  Microsoft Learn.md",
-    "Govern and manage - Training  Microsoft Learn/key-takeaway.png",
-    "Govern and manage - Training  Microsoft Learn/video-icon.png",
-    "Govern and manage - Training  Microsoft Learn/key-takeaway.png.crdownload",
-    "Govern and manage - Training  Microsoft Learn/video-icon.png.crdownload",
-    "Govern and manage - Training  Microsoft Learn",
-    "Non confermato 11504.crdownload",
-    "3ad84bcf-8632-4d51-b4d5-d2734bdf3e75.tmp",
-    "037Ready - Training  Microsoft Learn.md",
-    "Adopt - Training  Microsoft Learn/lightbulb.png",
-    "Adopt - Training  Microsoft Learn/video-icon.png",
-    "Adopt - Training  Microsoft Learn/key-takeaway.png",
-    "Adopt - Training  Microsoft Learn.md",
-    "036Plan - Training  Microsoft Learn.md",
-    "Ready - Training  Microsoft Learn/key-takeaway.png",
-    "Ready - Training  Microsoft Learn/video-icon.png",
-    "Ready - Training  Microsoft Learn/lightbulb.png",
-    "Plan - Training  Microsoft Learn/replace.png",
-    "034_INIZIO Overview - Training  Microsoft Learn.md",
-    "Define strategy - Training  Microsoft Learn.md",
-    "029Describe Azure role-based access control - Training  Microsoft Learn.md",
-    "033FINESummary - Training  Microsoft Learn.md",
-    "026Describe Azure conditional access - Training  Microsoft Learn.md",
-    "025Describe Azure external identities - Training  Microsoft Learn.md",
-    "032Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
-    "031Describe defense-in-depth - Training  Microsoft Learn.md",
-    "031Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
-    "Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
-    "030Describe zero trust model - Training  Microsoft Learn.md",
-    "Describe zero trust model - Training  Microsoft Learn.md",
-    "028Describe Azure conditional access - Training  Microsoft Learn.md",
-    "Describe Azure role-based access control - Training  Microsoft Learn.md",
-    "027Describe Azure external identities - Training  Microsoft Learn.md",
-    "Describe Azure conditional access - Training  Microsoft Learn.md",
-    "Describe Azure external identities - Training  Microsoft Learn.md",
-    "024Describe Azure authentication methods - Training  Microsoft Learn.md"
+    "AZ104_01_PREREQUSITI",
+    "BeginAzure/049FINESummary - Training  Microsoft Learn.md",
+    "BeginAzure/048Security - Training  Microsoft Learn.md",
+    "BeginAzure/047Reliability - Training  Microsoft Learn.md",
+    "BeginAzure/046Performance efficiency - Training  Microsoft Learn.md",
+    "BeginAzure/045Operational excellence - Training  Microsoft Learn.md",
+    "BeginAzure/044Cost optimization - Training  Microsoft Learn.md",
+    "BeginAzure/043Azure Well-Architected Framework pillars - Training  Microsoft Learn.md",
+    "BeginAzure/042Introduction - Training  Microsoft Learn.md",
+    "BeginAzure/041INIZIOIntroduction to the Microsoft Azure Well-Architected Framework - Training  Microsoft Learn.md",
+    "BeginAzure/040FINE_Summary and resources - Training  Microsoft Learn.md",
+    "BeginAzure/039Govern and manage - Training  Microsoft Learn.md",
+    "BeginAzure/038Adopt - Training  Microsoft Learn.md",
+    "BeginAzure/037Ready - Training  Microsoft Learn.md",
+    "BeginAzure/036Plan - Training  Microsoft Learn.md",
+    "BeginAzure/035Define strategy - Training  Microsoft Learn.md",
+    "BeginAzure/034_INIZIO Overview - Training  Microsoft Learn.md",
+    "BeginAzure/033FINESummary - Training  Microsoft Learn.md",
+    "BeginAzure/032Describe Microsoft Defender for Cloud - Training  Microsoft Learn.md",
+    "BeginAzure/031Describe defense-in-depth - Training  Microsoft Learn.md",
+    "BeginAzure/030Describe zero trust model - Training  Microsoft Learn.md",
+    "BeginAzure/029Describe Azure role-based access control - Training  Microsoft Learn.md",
+    "BeginAzure/028Describe Azure conditional access - Training  Microsoft Learn.md",
+    "BeginAzure/027Describe Azure external identities - Training  Microsoft Learn.md",
+    "BeginAzure/026Describe Azure conditional access - Training  Microsoft Learn.md",
+    "BeginAzure/025Describe Azure external identities - Training  Microsoft Learn.md",
+    "BeginAzure/video/Video003AzureStorage.mp4",
+    "BeginAzure/video/video002.mp4",
+    "BeginAzure/video/video001.mp4",
+    "BeginAzure/video/Ready.mp4",
+    "BeginAzure/video/Plan.mp4",
+    "BeginAzure/video/DefineStrategy.mp4",
+    "BeginAzure/video/ADOPT.mp4",
+    "BeginAzure/video",
+    "BeginAzure/Summary and resources - Training  Microsoft Learn/key-takeaway.png",
+    "BeginAzure/Summary and resources - Training  Microsoft Learn",
+    "BeginAzure/Security - Training  Microsoft Learn/shared-responsibilities.png",
+    "BeginAzure/Security - Training  Microsoft Learn/security-layers.png",
+    "BeginAzure/Security - Training  Microsoft Learn",
+    "BeginAzure/Ready - Training  Microsoft Learn/video-icon.png",
+    "BeginAzure/Ready - Training  Microsoft Learn/lightbulb.png",
+    "BeginAzure/Ready - Training  Microsoft Learn/key-takeaway.png",
+    "BeginAzure/Plan - Training  Microsoft Learn/video-icon.png",
+    "BeginAzure/Plan - Training  Microsoft Learn/replace.png",
+    "BeginAzure/Plan - Training  Microsoft Learn/rehost.png",
+    "BeginAzure/Plan - Training  Microsoft Learn/refactor.png"
   ]
 }

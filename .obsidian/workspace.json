@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
+                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5dd0dc0e7f4ebc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,13 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
+                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
+                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,19 +138,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md"
+                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md"
               }
             }
+          },
+          {
+            "id": "272688117251da44",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -146,10 +169,28 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9cf2588808cbf903",
+  "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
-    "002AzurePrerequisitiManaging/017Determine resource limits - Training  Microsoft Learn.md",
+    "004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
+    "003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
+    "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
+    "Non confermato 630852.crdownload",
+    "3c227635-d33c-4e74-a306-59eabaa5a8c9.tmp",
+    "Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
+    "Non confermato 207482.crdownload",
+    "353a5870-4655-4731-8aab-1d12d57f0c40.tmp",
+    "002Introduction - Training  Microsoft Learn.md",
+    "Non confermato 475267.crdownload",
+    "fa3e0096-13ab-4f55-ada7-a4f444ae6a67.tmp",
+    "001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
+    "Non confermato 348744.crdownload",
+    "e729b293-2838-4f0b-af3e-2adec96eb02c.tmp",
+    "Non confermato 353651.crdownload",
+    "2eb508b6-9d2d-46df-b196-4d234caad0bb.tmp",
     "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
+    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg",
+    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/017Determine resource limits - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/019Summary and resources - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/010INIZIO Introduction - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/005Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn.md",
@@ -167,32 +208,14 @@
     "002AzurePrerequisitiManaging/009FINESummary and resources - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/008Knowledge check - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/007Interactive lab simulation (Azure CLI) - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/006Use Azure CLI - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/Use the Azure portal - Training  Microsoft Learn/azure-portal-0949f400.png",
-    "002AzurePrerequisitiManaging/Use the Azure portal - Training  Microsoft Learn",
     "002AzurePrerequisitiManaging/Use Azure Cloud Shell - Training  Microsoft Learn/cloud-shell-a52770ea.png",
-    "002AzurePrerequisitiManaging/Use Azure Cloud Shell - Training  Microsoft Learn",
     "002AzurePrerequisitiManaging/Review Azure Resource Manager benefits - Training  Microsoft Learn/resource-manager-016a1bac.png",
-    "002AzurePrerequisitiManaging/Review Azure Resource Manager benefits - Training  Microsoft Learn",
     "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e.png",
     "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e (1).png",
     "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce.png",
     "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce (1).png",
-    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn",
     "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resources-7ac5596a.png",
-    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resource-groups-53e65483.png",
-    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn",
-    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn/simulation-powershell-thumbnail.jpg",
-    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn",
-    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure CLI) - Training  Microsoft Learn",
-    "002AzurePrerequisitiManaging/Determine resource limits - Training  Microsoft Learn",
-    "002AzurePrerequisitiManaging/Create Azure Resource Manager locks - Training  Microsoft Learn",
-    "002AzurePrerequisitiManaging",
-    "016Remove resources and resource groups - Training  Microsoft Learn.md",
-    "017Determine resource limits - Training  Microsoft Learn.md",
-    "018Knowledge check - Training  Microsoft Learn.md",
-    "Summary and resources - Training  Microsoft Learn.md",
-    "MARKDOWN_INTERESSANTI/Telegram Search Engines.md",
-    "MARKDOWN_INTERESSANTI/All in one Awesome Cyber Security Resources.md"
+    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resource-groups-53e65483.png"
   ]
 }

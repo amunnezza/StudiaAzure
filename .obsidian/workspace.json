@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md"
               }
             }
           }
@@ -148,51 +148,51 @@
   },
   "active": "9cf2588808cbf903",
   "lastOpenFiles": [
-    "008Knowledge check - Training  Microsoft Learn.md",
-    "006Use Azure CLI - Training  Microsoft Learn.md",
-    "009FINESummary and resources - Training  Microsoft Learn.md",
-    "Non confermato 97112.crdownload",
-    "78dbf6ad-26d0-43c1-a45d-e3a7cffa946d.tmp",
-    "Non confermato 476109.crdownload",
-    "64750284-dae5-43b8-82ff-0e7de58cea8e.tmp",
-    "003Use Azure Cloud Shell - Training  Microsoft Learn.md",
-    "002Use the Azure portal - Training  Microsoft Learn.md",
-    "004Use Azure PowerShell - Training  Microsoft Learn.md",
-    "007Interactive lab simulation (Azure CLI) - Training  Microsoft Learn.md",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn/lab-03d.png",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn/simulation-command-line-thumbnail.jpg",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn/lab-03d.png.crdownload",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn/simulation-command-line-thumbnail.jpg.crdownload",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn.md",
-    "Interactive lab simulation (Azure CLI) - Training  Microsoft Learn",
-    "Non confermato 813061.crdownload",
-    "a74c90cd-979a-4c8b-a5f3-6fd175780cdb.tmp",
-    "78813d62-93ff-4253-b352-5dfbbf9b38ac.tmp",
-    "005Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn.md",
-    "Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn/lab-03c.png",
-    "Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn/simulation-powershell-thumbnail.jpg",
-    "Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn.md",
-    "Use Azure Cloud Shell - Training  Microsoft Learn/cloud-shell-a52770ea.png",
-    "Use Azure Cloud Shell - Training  Microsoft Learn.md",
-    "001INIZIOIntroduction - Training  Microsoft Learn.md",
-    "Use the Azure portal - Training  Microsoft Learn/azure-portal-0949f400.png",
-    "BeginAzure/029Describe Azure role-based access control - Training  Microsoft Learn.md",
-    "Introduction - Training  Microsoft Learn.md",
-    "BeginAzure/009Describe application hosting options - Training  Microsoft Learn.md",
-    "BeginAzure/008Describe Azure functions - Training  Microsoft Learn.md",
-    "BeginAzure/007Describe Azure containers - Training  Microsoft Learn.md",
-    "BeginAzure/006Describe Azure virtual desktop - Training  Microsoft Learn.md",
-    "BeginAzure/005Exercise - Create an Azure virtual machine - Training  Microsoft Learn.md",
-    "BeginAzure/004Describe Azure virtual machines - Training  Microsoft Learn.md",
-    "BeginAzure/003Describe Azure compute and networking services - Training  Microsoft Learn.md",
-    "BeginAzure/002Descrivere l'infrastruttura di gestione di Azure - Training  Microsoft Learn.md",
-    "BeginAzure/001Descrivere l'infrastruttura fisica di Azure - Training  Microsoft Learn.md",
-    "README.md",
-    "BeginAzure/049FINESummary - Training  Microsoft Learn.md",
-    "BeginAzure/048Security - Training  Microsoft Learn.md",
-    "BeginAzure/Summary and resources - Training  Microsoft Learn/key-takeaway.png",
-    "BeginAzure/Security - Training  Microsoft Learn/shared-responsibilities.png",
-    "BeginAzure/Security - Training  Microsoft Learn/security-layers.png",
-    "BeginAzure/Ready - Training  Microsoft Learn/video-icon.png"
+    "002AzurePrerequisitiManaging/017Determine resource limits - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/019Summary and resources - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/010INIZIO Introduction - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/005Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/004Use Azure PowerShell - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/003Use Azure Cloud Shell - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/002Use the Azure portal - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/001INIZIOIntroduction - Training  Microsoft Learn.md",
+    "019Summary and resources - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/016Remove resources and resource groups - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/015Reorganize Azure resources - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/014Create Azure Resource Manager locks - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/013Create resource groups - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/012Review Azure resource terminology - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/011Review Azure Resource Manager benefits - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/009FINESummary and resources - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/008Knowledge check - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/007Interactive lab simulation (Azure CLI) - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/006Use Azure CLI - Training  Microsoft Learn.md",
+    "002AzurePrerequisitiManaging/Use the Azure portal - Training  Microsoft Learn/azure-portal-0949f400.png",
+    "002AzurePrerequisitiManaging/Use the Azure portal - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Use Azure Cloud Shell - Training  Microsoft Learn/cloud-shell-a52770ea.png",
+    "002AzurePrerequisitiManaging/Use Azure Cloud Shell - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Review Azure Resource Manager benefits - Training  Microsoft Learn/resource-manager-016a1bac.png",
+    "002AzurePrerequisitiManaging/Review Azure Resource Manager benefits - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e.png",
+    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e (1).png",
+    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce.png",
+    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce (1).png",
+    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resources-7ac5596a.png",
+    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resource-groups-53e65483.png",
+    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn/simulation-powershell-thumbnail.jpg",
+    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Interactive lab simulation (Azure CLI) - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Determine resource limits - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging/Create Azure Resource Manager locks - Training  Microsoft Learn",
+    "002AzurePrerequisitiManaging",
+    "016Remove resources and resource groups - Training  Microsoft Learn.md",
+    "017Determine resource limits - Training  Microsoft Learn.md",
+    "018Knowledge check - Training  Microsoft Learn.md",
+    "Summary and resources - Training  Microsoft Learn.md",
+    "MARKDOWN_INTERESSANTI/Telegram Search Engines.md",
+    "MARKDOWN_INTERESSANTI/All in one Awesome Cyber Security Resources.md"
   ]
 }

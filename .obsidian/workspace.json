@@ -8,31 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9cf2588808cbf903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a5dd0dc0e7f4ebc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -171,51 +150,51 @@
   },
   "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
+    "009Knowledge check - Training  Microsoft Learn (1).md",
+    "003AzureTemplates/002Introduction - Training  Microsoft Learn.md",
+    "003AzureTemplates/001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
+    "003AzureTemplates/Review QuickStart templates - Training  Microsoft Learn/quickstart-templates-2d65475a.png",
+    "003AzureTemplates/Review QuickStart templates - Training  Microsoft Learn",
+    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn/simulation-thumbnail.jpg",
+    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn/simulation-templates.png",
+    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn",
+    "003AzureTemplates/Consider Bicep templates - Training  Microsoft Learn/bicep.png",
+    "003AzureTemplates/Consider Bicep templates - Training  Microsoft Learn",
+    "003AzureTemplates/Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg",
+    "003AzureTemplates/Configure resources with Azure Resource Manager templates - Training  Microsoft Learn",
+    "003AzureTemplates/010Summary and resources - Training  Microsoft Learn.md",
+    "003AzureTemplates/009Knowledge check - Training  Microsoft Learn (1).md",
+    "003AzureTemplates/008Interactive lab simulation - templates - Training  Microsoft Learn.md",
+    "003AzureTemplates/007Review QuickStart templates - Training  Microsoft Learn.md",
+    "003AzureTemplates/006Consider Bicep templates - Training  Microsoft Learn.md",
+    "003AzureTemplates/005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
+    "003AzureTemplates/004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
+    "003AzureTemplates/003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
+    "003AzureTemplates",
+    "Nuova cartella",
+    "010Summary and resources - Training  Microsoft Learn.md",
+    "Summary and resources - Training  Microsoft Learn.md",
+    "Non confermato 288008.crdownload",
+    "a7216e09-1ae8-43a0-8808-8b4ae41daae3.tmp",
     "004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
+    "Knowledge check - Training  Microsoft Learn.md",
+    "Non confermato 195198.crdownload",
+    "ccb07552-327c-420d-8bb5-e3b809b6e86e.tmp",
     "003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
-    "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
-    "Non confermato 630852.crdownload",
-    "3c227635-d33c-4e74-a306-59eabaa5a8c9.tmp",
-    "Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
-    "Non confermato 207482.crdownload",
-    "353a5870-4655-4731-8aab-1d12d57f0c40.tmp",
     "002Introduction - Training  Microsoft Learn.md",
-    "Non confermato 475267.crdownload",
-    "fa3e0096-13ab-4f55-ada7-a4f444ae6a67.tmp",
     "001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "Non confermato 348744.crdownload",
-    "e729b293-2838-4f0b-af3e-2adec96eb02c.tmp",
-    "Non confermato 353651.crdownload",
-    "2eb508b6-9d2d-46df-b196-4d234caad0bb.tmp",
+    "008Interactive lab simulation - templates - Training  Microsoft Learn.md",
+    "007Review QuickStart templates - Training  Microsoft Learn.md",
+    "006Consider Bicep templates - Training  Microsoft Learn.md",
+    "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
+    "Interactive lab simulation - templates - Training  Microsoft Learn/simulation-thumbnail.jpg",
+    "Interactive lab simulation - templates - Training  Microsoft Learn/simulation-templates.png",
+    "Review QuickStart templates - Training  Microsoft Learn/quickstart-templates-2d65475a.png",
+    "Consider Bicep templates - Training  Microsoft Learn/bicep.png",
+    "Consider Bicep templates - Training  Microsoft Learn.md",
+    "Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
     "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
     "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg",
-    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/017Determine resource limits - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/019Summary and resources - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/010INIZIO Introduction - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/005Interactive lab simulation (Azure PowerShell) - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/004Use Azure PowerShell - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/003Use Azure Cloud Shell - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/002Use the Azure portal - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/001INIZIOIntroduction - Training  Microsoft Learn.md",
-    "019Summary and resources - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/016Remove resources and resource groups - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/015Reorganize Azure resources - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/014Create Azure Resource Manager locks - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/013Create resource groups - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/012Review Azure resource terminology - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/011Review Azure Resource Manager benefits - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/009FINESummary and resources - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/008Knowledge check - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/007Interactive lab simulation (Azure CLI) - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/Use the Azure portal - Training  Microsoft Learn/azure-portal-0949f400.png",
-    "002AzurePrerequisitiManaging/Use Azure Cloud Shell - Training  Microsoft Learn/cloud-shell-a52770ea.png",
-    "002AzurePrerequisitiManaging/Review Azure Resource Manager benefits - Training  Microsoft Learn/resource-manager-016a1bac.png",
-    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e.png",
-    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resources-1ce2912e (1).png",
-    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce.png",
-    "002AzurePrerequisitiManaging/Reorganize Azure resources - Training  Microsoft Learn/move-resource-groups-aae58bce (1).png",
-    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resources-7ac5596a.png",
-    "002AzurePrerequisitiManaging/Remove resources and resource groups - Training  Microsoft Learn/delete-resource-groups-53e65483.png"
+    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md"
   ]
 }

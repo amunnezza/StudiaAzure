@@ -11,8 +11,12 @@
             "id": "a5dd0dc0e7f4ebc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "03Install PowerShell - Training  Microsoft Learn.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "03Install PowerShell - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "03Install PowerShell - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "03Install PowerShell - Training  Microsoft Learn.md"
+              }
             }
           },
           {
@@ -148,8 +156,12 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "a5dd0dc0e7f4ebc3",
+  "active": "9f518037077a8377",
   "lastOpenFiles": [
+    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
+    "03Install PowerShell - Training  Microsoft Learn.md",
+    "Non confermato 213624.crdownload",
+    "26c960e5-142b-4dcb-b262-81b325d408a5.tmp",
     "009Knowledge check - Training  Microsoft Learn (1).md",
     "003AzureTemplates/002Introduction - Training  Microsoft Learn.md",
     "003AzureTemplates/001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
@@ -178,8 +190,6 @@
     "a7216e09-1ae8-43a0-8808-8b4ae41daae3.tmp",
     "004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
     "Knowledge check - Training  Microsoft Learn.md",
-    "Non confermato 195198.crdownload",
-    "ccb07552-327c-420d-8bb5-e3b809b6e86e.tmp",
     "003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
     "002Introduction - Training  Microsoft Learn.md",
     "001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
@@ -193,8 +203,6 @@
     "Consider Bicep templates - Training  Microsoft Learn/bicep.png",
     "Consider Bicep templates - Training  Microsoft Learn.md",
     "Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
-    "002AzurePrerequisitiManaging/018Knowledge check - Training  Microsoft Learn.md",
-    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg",
-    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md"
+    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg"
   ]
 }

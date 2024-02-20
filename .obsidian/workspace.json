@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03Install PowerShell - Training  Microsoft Learn.md",
+                "file": "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03Install PowerShell - Training  Microsoft Learn.md",
+                "file": "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03Install PowerShell - Training  Microsoft Learn.md",
+                "file": "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03Install PowerShell - Training  Microsoft Learn.md"
+                "file": "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md"
               }
             }
           },
@@ -156,10 +156,12 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9f518037077a8377",
+  "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
-    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
+    "04Exercise - Install PowerShell - Training Windows Microsoft Learn.md",
+    "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
     "03Install PowerShell - Training  Microsoft Learn.md",
+    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
     "Non confermato 213624.crdownload",
     "26c960e5-142b-4dcb-b262-81b325d408a5.tmp",
     "009Knowledge check - Training  Microsoft Learn (1).md",
@@ -201,8 +203,6 @@
     "Interactive lab simulation - templates - Training  Microsoft Learn/simulation-templates.png",
     "Review QuickStart templates - Training  Microsoft Learn/quickstart-templates-2d65475a.png",
     "Consider Bicep templates - Training  Microsoft Learn/bicep.png",
-    "Consider Bicep templates - Training  Microsoft Learn.md",
-    "Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
     "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg"
   ]
 }

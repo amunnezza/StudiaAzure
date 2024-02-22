@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free - Tutorials & Methods - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 507.5
+    "width": 729.5
   },
   "right": {
     "id": "8143502d67ef0b91",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free - Tutorials & Methods - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free - Tutorials & Methods - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md",
+                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free - Tutorials & Methods - OneHack.Us  Tutorials For Free, Guides, Articles & Community Forum.md"
+                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md"
               }
             }
           },
@@ -156,8 +156,34 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "a5dd0dc0e7f4ebc3",
+  "active": "9f518037077a8377",
   "lastOpenFiles": [
+    "004AutomateAzurePowerShell/Awesome WireGuard.md",
+    "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
+    "MARKDOWN_INTERESSANTI/Unlock GPT-4/82498c51461d229ccbc9aa7dc7f0949741299a98.png",
+    "MARKDOWN_INTERESSANTI/Unlock GPT-4",
+    "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn/7-windows-powershell-ise-screenshot.png",
+    "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn",
+    "004AutomateAzurePowerShell/Create an Azure Resource using scripts in Azure PowerShell - Training  Microsoft Learn/5-create-resource-overview.png",
+    "004AutomateAzurePowerShell/Create an Azure Resource using scripts in Azure PowerShell - Training  Microsoft Learn",
+    "004AutomateAzurePowerShell/Awesome WireGuard/yellow_circle.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard/red_circle.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard/man_shrugging.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard/Leechers.gif",
+    "004AutomateAzurePowerShell/Awesome WireGuard/heart.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard/green_circle.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard/9e489c5adab495e3ccac3285d7f3fe766e134e97.png",
+    "004AutomateAzurePowerShell/Awesome WireGuard",
+    "004AutomateAzurePowerShell/Automate Azure tasks using scripts with PowerShell - Training  Microsoft Learn",
+    "004AutomateAzurePowerShell/Introduction - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell/FineExercise - Create and save scripts in Azure PowerShell - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell/06Create and save scripts in Azure PowerShell - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell/05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
+    "004AutomateAzurePowerShell/04Exercise - Install PowerShell - Training Windows Microsoft Learn.md",
+    "004AutomateAzurePowerShell/03Install PowerShell - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell/02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell/01Automate Azure tasks using scripts with PowerShell - Training  Microsoft Learn.md",
+    "004AutomateAzurePowerShell",
     "04Exercise - Install PowerShell - Training Windows Microsoft Learn.md",
     "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
     "03Install PowerShell - Training  Microsoft Learn.md",
@@ -167,15 +193,8 @@
     "009Knowledge check - Training  Microsoft Learn (1).md",
     "003AzureTemplates/002Introduction - Training  Microsoft Learn.md",
     "003AzureTemplates/001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/Review QuickStart templates - Training  Microsoft Learn/quickstart-templates-2d65475a.png",
     "003AzureTemplates/Review QuickStart templates - Training  Microsoft Learn",
-    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn/simulation-thumbnail.jpg",
-    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn/simulation-templates.png",
     "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn",
-    "003AzureTemplates/Consider Bicep templates - Training  Microsoft Learn/bicep.png",
-    "003AzureTemplates/Consider Bicep templates - Training  Microsoft Learn",
-    "003AzureTemplates/Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg",
-    "003AzureTemplates/Configure resources with Azure Resource Manager templates - Training  Microsoft Learn",
     "003AzureTemplates/010Summary and resources - Training  Microsoft Learn.md",
     "003AzureTemplates/009Knowledge check - Training  Microsoft Learn (1).md",
     "003AzureTemplates/008Interactive lab simulation - templates - Training  Microsoft Learn.md",
@@ -184,25 +203,6 @@
     "003AzureTemplates/005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
     "003AzureTemplates/004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
     "003AzureTemplates/003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
-    "003AzureTemplates",
-    "Nuova cartella",
-    "010Summary and resources - Training  Microsoft Learn.md",
-    "Summary and resources - Training  Microsoft Learn.md",
-    "Non confermato 288008.crdownload",
-    "a7216e09-1ae8-43a0-8808-8b4ae41daae3.tmp",
-    "004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
-    "Knowledge check - Training  Microsoft Learn.md",
-    "003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
-    "002Introduction - Training  Microsoft Learn.md",
-    "001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "008Interactive lab simulation - templates - Training  Microsoft Learn.md",
-    "007Review QuickStart templates - Training  Microsoft Learn.md",
-    "006Consider Bicep templates - Training  Microsoft Learn.md",
-    "005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
-    "Interactive lab simulation - templates - Training  Microsoft Learn/simulation-thumbnail.jpg",
-    "Interactive lab simulation - templates - Training  Microsoft Learn/simulation-templates.png",
-    "Review QuickStart templates - Training  Microsoft Learn/quickstart-templates-2d65475a.png",
-    "Consider Bicep templates - Training  Microsoft Learn/bicep.png",
-    "Configure resources with Azure Resource Manager templates - Training  Microsoft Learn/arm-templates-resources.svg"
+    "010Summary and resources - Training  Microsoft Learn.md"
   ]
 }

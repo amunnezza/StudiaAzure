@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
+                "file": "01Introduction - Training  Microsoft Learn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
+                "file": "01Introduction - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
+                "file": "01Introduction - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md"
+                "file": "01Introduction - Training  Microsoft Learn.md"
               }
             }
           },
@@ -156,10 +156,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "9f518037077a8377",
+  "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
-    "004AutomateAzurePowerShell/Awesome WireGuard.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
+    "Introduction - Training  Microsoft Learn.md",
+    "Non confermato 562133.crdownload",
+    "8f7ca706-f311-48f6-9114-a5f93d4f9c00.tmp",
+    "004AutomateAzurePowerShell/Awesome WireGuard.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4/82498c51461d229ccbc9aa7dc7f0949741299a98.png",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4",
     "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn/7-windows-powershell-ise-screenshot.png",
@@ -193,8 +196,6 @@
     "009Knowledge check - Training  Microsoft Learn (1).md",
     "003AzureTemplates/002Introduction - Training  Microsoft Learn.md",
     "003AzureTemplates/001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/Review QuickStart templates - Training  Microsoft Learn",
-    "003AzureTemplates/Interactive lab simulation - templates - Training  Microsoft Learn",
     "003AzureTemplates/010Summary and resources - Training  Microsoft Learn.md",
     "003AzureTemplates/009Knowledge check - Training  Microsoft Learn (1).md",
     "003AzureTemplates/008Interactive lab simulation - templates - Training  Microsoft Learn.md",
@@ -202,7 +203,6 @@
     "003AzureTemplates/006Consider Bicep templates - Training  Microsoft Learn.md",
     "003AzureTemplates/005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
     "003AzureTemplates/004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
-    "003AzureTemplates/003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md",
-    "010Summary and resources - Training  Microsoft Learn.md"
+    "003AzureTemplates/003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md"
   ]
 }

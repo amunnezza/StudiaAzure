@@ -11,12 +11,8 @@
             "id": "a5dd0dc0e7f4ebc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01Introduction - Training  Microsoft Learn.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01Introduction - Training  Microsoft Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01Introduction - Training  Microsoft Learn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01Introduction - Training  Microsoft Learn.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,26 +150,39 @@
   },
   "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
+    "05Exercise - Create an Azure website using the CLI - Training  Microsoft Learn.md",
+    "05AzureClient/Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png",
+    "05AzureClient/Work with the Azure CLI - Training  Microsoft Learn",
+    "05AzureClient/05Exercise - Create an Azure website using the CLI - Training  Microsoft Learn.md",
+    "05AzureClient/04Work with the Azure CLI - Training  Microsoft Learn.md",
+    "05AzureClient/03Exercise - Install and run the Azure CLI - Training  Microsoft Learn.md",
+    "05AzureClient/02What is the Azure CLI - Training  Microsoft Learn.md",
+    "05AzureClient/01Introduction - Training  Microsoft Learn.md",
+    "05AzureClient",
+    "Nuova cartella",
+    "04Work with the Azure CLI - Training  Microsoft Learn.md",
+    "Non confermato 907928.crdownload",
+    "2ec09d19-cec6-4369-af5c-daf58bec27d8.tmp",
+    "03Exercise - Install and run the Azure CLI - Training  Microsoft Learn.md",
+    "Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png",
+    "Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png.crdownload",
+    "Work with the Azure CLI - Training  Microsoft Learn",
+    "Non confermato 298011.crdownload",
+    "0a78a8f3-8119-4d6b-8d9f-1555eec7696e.tmp",
+    "307ee5e2-ad30-4f85-8bd2-d924e70f0f9a.tmp",
+    "02What is the Azure CLI - Training  Microsoft Learn.md",
+    "01Introduction - Training  Microsoft Learn.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
     "Introduction - Training  Microsoft Learn.md",
-    "Non confermato 562133.crdownload",
-    "8f7ca706-f311-48f6-9114-a5f93d4f9c00.tmp",
     "004AutomateAzurePowerShell/Awesome WireGuard.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4/82498c51461d229ccbc9aa7dc7f0949741299a98.png",
-    "MARKDOWN_INTERESSANTI/Unlock GPT-4",
     "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn/7-windows-powershell-ise-screenshot.png",
-    "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn",
     "004AutomateAzurePowerShell/Create an Azure Resource using scripts in Azure PowerShell - Training  Microsoft Learn/5-create-resource-overview.png",
-    "004AutomateAzurePowerShell/Create an Azure Resource using scripts in Azure PowerShell - Training  Microsoft Learn",
     "004AutomateAzurePowerShell/Awesome WireGuard/yellow_circle.png",
     "004AutomateAzurePowerShell/Awesome WireGuard/red_circle.png",
     "004AutomateAzurePowerShell/Awesome WireGuard/man_shrugging.png",
     "004AutomateAzurePowerShell/Awesome WireGuard/Leechers.gif",
     "004AutomateAzurePowerShell/Awesome WireGuard/heart.png",
-    "004AutomateAzurePowerShell/Awesome WireGuard/green_circle.png",
-    "004AutomateAzurePowerShell/Awesome WireGuard/9e489c5adab495e3ccac3285d7f3fe766e134e97.png",
-    "004AutomateAzurePowerShell/Awesome WireGuard",
-    "004AutomateAzurePowerShell/Automate Azure tasks using scripts with PowerShell - Training  Microsoft Learn",
     "004AutomateAzurePowerShell/Introduction - Training  Microsoft Learn.md",
     "004AutomateAzurePowerShell/FineExercise - Create and save scripts in Azure PowerShell - Training  Microsoft Learn.md",
     "004AutomateAzurePowerShell/06Create and save scripts in Azure PowerShell - Training  Microsoft Learn.md",
@@ -186,23 +191,9 @@
     "004AutomateAzurePowerShell/03Install PowerShell - Training  Microsoft Learn.md",
     "004AutomateAzurePowerShell/02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
     "004AutomateAzurePowerShell/01Automate Azure tasks using scripts with PowerShell - Training  Microsoft Learn.md",
-    "004AutomateAzurePowerShell",
     "04Exercise - Install PowerShell - Training Windows Microsoft Learn.md",
     "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
     "03Install PowerShell - Training  Microsoft Learn.md",
-    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md",
-    "Non confermato 213624.crdownload",
-    "26c960e5-142b-4dcb-b262-81b325d408a5.tmp",
-    "009Knowledge check - Training  Microsoft Learn (1).md",
-    "003AzureTemplates/002Introduction - Training  Microsoft Learn.md",
-    "003AzureTemplates/001Configure resources with Azure Resource Manager templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/010Summary and resources - Training  Microsoft Learn.md",
-    "003AzureTemplates/009Knowledge check - Training  Microsoft Learn (1).md",
-    "003AzureTemplates/008Interactive lab simulation - templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/007Review QuickStart templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/006Consider Bicep templates - Training  Microsoft Learn.md",
-    "003AzureTemplates/005Explore the Azure Resource Manager template parameters - Training  Microsoft Learn.md",
-    "003AzureTemplates/004Explore the Azure Resource Manager template schema - Training  Microsoft Learn.md",
-    "003AzureTemplates/003Review Azure Resource Manager template advantages - Training  Microsoft Learn.md"
+    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md"
   ]
 }

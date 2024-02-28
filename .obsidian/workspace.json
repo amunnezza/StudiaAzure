@@ -11,8 +11,12 @@
             "id": "a5dd0dc0e7f4ebc3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -150,6 +158,8 @@
   },
   "active": "a5dd0dc0e7f4ebc3",
   "lastOpenFiles": [
+    "Bookmark - Bookmark this Page.md",
+    "William K. Zinsser - On Writing Well, 25th Anniversary_ The Classic Guide to Writing Nonfiction (On Writing Well) (2001).pdf",
     "05Exercise - Create an Azure website using the CLI - Training  Microsoft Learn.md",
     "05AzureClient/Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png",
     "05AzureClient/Work with the Azure CLI - Training  Microsoft Learn",
@@ -169,7 +179,6 @@
     "Work with the Azure CLI - Training  Microsoft Learn",
     "Non confermato 298011.crdownload",
     "0a78a8f3-8119-4d6b-8d9f-1555eec7696e.tmp",
-    "307ee5e2-ad30-4f85-8bd2-d924e70f0f9a.tmp",
     "02What is the Azure CLI - Training  Microsoft Learn.md",
     "01Introduction - Training  Microsoft Learn.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
@@ -193,7 +202,6 @@
     "004AutomateAzurePowerShell/01Automate Azure tasks using scripts with PowerShell - Training  Microsoft Learn.md",
     "04Exercise - Install PowerShell - Training Windows Microsoft Learn.md",
     "05Create an Azure Resource using scripts in Azure PowerShell - Training Microsoft Learn.md",
-    "03Install PowerShell - Training  Microsoft Learn.md",
-    "02Decide if Azure PowerShell is right for your tasks - Training  Microsoft Learn.md"
+    "03Install PowerShell - Training  Microsoft Learn.md"
   ]
 }

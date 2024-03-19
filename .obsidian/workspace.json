@@ -11,12 +11,8 @@
             "id": "a5dd0dc0e7f4ebc3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 729.5
+    "width": 360.5
   },
   "right": {
     "id": "8143502d67ef0b91",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,13 @@
       "command-palette:Apri riquadro comandi": false
     }
   },
-  "active": "a5dd0dc0e7f4ebc3",
+  "active": "9f518037077a8377",
   "lastOpenFiles": [
+    "README.md",
+    "01Introduction - Training  Microsoft Learn.md",
+    "Introduction - Training  Microsoft Learn.md",
+    "Non confermato 335878.crdownload",
+    "f57642a0-3039-48b2-8278-a8380a001e1f.tmp",
     "Bookmark - Bookmark this Page.md",
     "William K. Zinsser - On Writing Well, 25th Anniversary_ The Classic Guide to Writing Nonfiction (On Writing Well) (2001).pdf",
     "05Exercise - Create an Azure website using the CLI - Training  Microsoft Learn.md",
@@ -177,12 +174,8 @@
     "Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png",
     "Work with the Azure CLI - Training  Microsoft Learn/4-create-resources-overview.png.crdownload",
     "Work with the Azure CLI - Training  Microsoft Learn",
-    "Non confermato 298011.crdownload",
-    "0a78a8f3-8119-4d6b-8d9f-1555eec7696e.tmp",
     "02What is the Azure CLI - Training  Microsoft Learn.md",
-    "01Introduction - Training  Microsoft Learn.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4 Free.md",
-    "Introduction - Training  Microsoft Learn.md",
     "004AutomateAzurePowerShell/Awesome WireGuard.md",
     "MARKDOWN_INTERESSANTI/Unlock GPT-4/82498c51461d229ccbc9aa7dc7f0949741299a98.png",
     "004AutomateAzurePowerShell/Create and save scripts in Azure PowerShell - Training  Microsoft Learn/7-windows-powershell-ise-screenshot.png",
